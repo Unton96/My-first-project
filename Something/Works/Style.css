@@ -10,24 +10,27 @@ body{
 
 .main{
     position: absolute;
-    margin-left: 14vw;
+    margin-left: 17vw;
 
 }
 
 img{
-width:14vw;
+width:16.5vw;
     position: absolute;
 
 }
 .para1{
-    font-size:25px;
+    font-size:1.4vw;
     float:left;
     position: absolute;
     float: left;
-    margin-left: 14vw;
-    text-indent: 4vw;
+    text-indent: 3vw;
+    word-spacing:0.35vw;
     line-height: 3.5vh;
-    margin-top:5vw;
+    margin-left: 17vw;
+    margin-top:4.5vw;
+    margin-right: 2vw;
+    text-align:justify;
     
 }
 
