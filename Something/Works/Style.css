@@ -1,0 +1,36 @@
+body{
+    background-color: #1f1f2e;
+}
+.paper{
+    width: 89.56vw;
+    height: 98vh;
+    margin-left: auto;  
+    background-color: white;
+}
+
+.main{
+    position: absolute;
+    margin-left: 14vw;
+
+}
+
+img{
+width:14vw;
+    position: absolute;
+
+}
+.para1{
+    font-size:25px;
+    float:left;
+    position: absolute;
+    float: left;
+    margin-left: 14vw;
+    text-indent: 4vw;
+    line-height: 3.5vh;
+    margin-top:5vw;
+    
+}
+
+img:hover{
+    transform: scale(1.005);
+}
